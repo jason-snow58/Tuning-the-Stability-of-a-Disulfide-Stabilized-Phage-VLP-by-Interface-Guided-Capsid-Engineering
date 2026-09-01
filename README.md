@@ -42,10 +42,10 @@ happens once per session.
 
 | notebook | input |
 |---|---|
-| `figure1_interface_classification` | a q3-axis coordinate file (`.pdb`) |
-| `figure2c_contact_detection` | any structure (`.pdb`) |
-| `figure2c_contact_maps` | the contact table written by the detection notebook |
-| `calpha_interface_map` | the `.pml` written by the classification notebook |
+| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure 1_interface_classification.ipynb` | a q3-axis coordinate file (`.pdb`) |
+| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Interdimer_interface_residue_contact_detection.ipynb` | any structure (`.pdb`) |
+| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure2 C_contact_maps.ipynb` | the contact table written by the detection notebook |
+| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c-alpha_interface_map.ipynb` | the `.pml` written by the classification notebook |
 
 **Segment identifiers must survive into the file you upload.** In these
 assemblies the chain column is degenerate — several subunits share one chain
