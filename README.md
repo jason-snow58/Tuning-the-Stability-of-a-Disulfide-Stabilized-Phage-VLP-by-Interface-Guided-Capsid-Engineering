@@ -16,9 +16,9 @@ The filenames still carry the numbering the figures had in an earlier draft.
 The paper figure column is the current one: the contact classification is now
 Figure 1, and the contact maps are panel C of Figure 2.
 
-Two notebooks feed two others. `figure1_interface_classification` writes the
-`.pml` that `calpha_interface_map` opens, and `figure3c_contact_detection`
-writes the contact table that `figure2c_contact_maps` draws.
+Two notebooks feed two others. `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure 1_interface_classification.ipynb` writes the
+`.pml` that `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c-alpha_interface_map.ipynb` opens, and `figure3c_contact_detection`
+writes the contact table that `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure2 C_contact_maps.ipynb` draws.
 
 ## Running one
 
