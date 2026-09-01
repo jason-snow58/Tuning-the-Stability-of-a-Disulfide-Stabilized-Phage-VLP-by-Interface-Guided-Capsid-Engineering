@@ -10,14 +10,14 @@ first and nothing needs to be configured.
 | `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure 1_interface_classification.ipynb` | **Figure 1** — interdimer/intradimer/bridge classification | no |
 | `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure2 C_contact_maps.ipynb` | **Figure 2C** — contact detection | **yes** |
 | `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Interdimer_interface_residue_contact_detection.ipynb` | **Figure 2C** — map panels | no |
-| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c-alpha_interface_map.ipynb` | presentation tool, no figure | **yes** |
+| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c_alpha_interface_map.ipynb` | presentation tool, no figure | **yes** |
 
 The filenames still carry the numbering the figures had in an earlier draft.
 The paper figure column is the current one: the contact classification is now
 Figure 1, and the contact maps are panel C of Figure 2.
 
 Two notebooks feed two others. `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure 1_interface_classification.ipynb` writes the
-`.pml` that `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c-alpha_interface_map.ipynb` opens, and `figure3c_contact_detection`
+`.pml` that `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c_alpha_interface_map.ipynb` opens, and `figure3c_contact_detection`
 writes the contact table that `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure2 C_contact_maps.ipynb` draws.
 
 ## Running one
@@ -45,7 +45,7 @@ happens once per session.
 | `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure 1_interface_classification.ipynb` | a q3-axis coordinate file (`.pdb`) |
 | `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Interdimer_interface_residue_contact_detection.ipynb` | any structure (`.pdb`) |
 | `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_Figure2 C_contact_maps.ipynb` | the contact table written by the detection notebook |
-| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c-alpha_interface_map.ipynb` | the `.pml` written by the classification notebook |
+| `Tuning the Stability of a Disulfide-Stabilized Phage VLP by Interface-Guided Capsid Engineering_c_alpha_interface_map.ipynb` | the `.pml` written by the classification notebook |
 
 **Segment identifiers must survive into the file you upload.** In these
 assemblies the chain column is degenerate — several subunits share one chain
